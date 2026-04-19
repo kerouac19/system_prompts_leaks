@@ -146,6 +146,7 @@
 | 40 | OpenAI/tool-python-code.md | 小 | [x] |
 | 41 | OpenAI/tool-python.md | 小 | [x] |
 | 42 | OpenAI/tool-web-search.md | 小 | [x] |
+| 43 | OpenAI/Old/chatgpt-4o-mini.txt | 小(64) | [x] |
 
 ---
 
@@ -195,7 +196,7 @@
 ---
 
 ### 阶段 8：Anthropic/old 目录（8 个文件）
-**状态**: [x] 已完成
+**状态**: [~] 进行中
 
 | # | 文件 | 行数 | 状态 |
 |---|------|------|------|
@@ -203,30 +204,30 @@
 | 2 | Anthropic/old/claude-3.7-sonnet-w-tools.md | 中(688) | [x] |
 | 3 | Anthropic/old/claude-3.7-sonnet.md | 大(1108) | [~] |
 | 4 | Anthropic/old/claude-3.7-full-system-message-with-all-tools.md | 大(1109) | [x] |
-| 5 | Anthropic/old/claude-opus-4.5.md | 大(1205) | [x] |
-| 6 | Anthropic/old/claude-3.7-sonnet-full-system-message-humanreadable.md | 大(1269) | [x] |
+| 5 | Anthropic/old/claude-opus-4.5.md | 大(1205) | [~] |
+| 6 | Anthropic/old/claude-3.7-sonnet-full-system-message-humanreadable.md | 大(1269) | [~] |
 | 7 | Anthropic/old/claude-4.1-opus-thinking.md | 大(1306) | [x] |
 | 8 | Anthropic/old/claude-4.5-sonnet.md | 大(2752) | [x] |
 
 ---
 
 ### 阶段 9：Anthropic - 超大文件（7 个文件）
-**状态**: [x] 已完成
+**状态**: [~] 进行中
 
 | # | 文件 | 行数 | 状态 |
 |---|------|------|------|
 | 1 | Anthropic/raw/claude-opus-4.6-no-tools-raw.md | 大 | [x] |
 | 2 | Anthropic/raw/claude-sonnet-4.6-no-tools-raw.md | 大 | [x] |
-| 3 | Anthropic/raw/claude-sonnet-4.6-raw.md | 大(1721) | [x] |
-| 4 | Anthropic/raw/claude-opus-4.6-raw.md | 大(1740) | [x] |
-| 5 | Anthropic/claude-cowork.md | 超大(2768) | [x] |
-| 6 | Anthropic/claude-sonnet-4.6.md | 超大(5348) | [x] |
-| 7 | Anthropic/claude-opus-4.6.md | 超大(5371) | [x] |
+| 3 | Anthropic/raw/claude-sonnet-4.6-raw.md | 大(1721) | [~] |
+| 4 | Anthropic/raw/claude-opus-4.6-raw.md | 大(1740) | [~] |
+| 5 | Anthropic/claude-cowork.md | 超大(2768) | [~] |
+| 6 | Anthropic/claude-sonnet-4.6.md | 超大(5348) | [~] |
+| 7 | Anthropic/claude-opus-4.6.md | 超大(5371) | [~] |
 
 ---
 
 ### 阶段 10：Anthropic/claude-code2.md（分段翻译）
-**状态**: [x] 已完成
+**状态**: [~] 进行中
 
 - **文件**: Anthropic/claude-code2.md
 - **行数**: 97,903 行
@@ -234,16 +235,16 @@
 
 | 段 | 行范围 | 状态 |
 |----|--------|------|
-| 1 | 1 - 10,000 | [x] |
-| 2 | 10,001 - 20,000 | [x] |
-| 3 | 20,001 - 30,000 | [x] |
-| 4 | 30,001 - 40,000 | [x] |
-| 5 | 40,001 - 50,000 | [x] |
-| 6 | 50,001 - 60,000 | [x] |
-| 7 | 60,001 - 70,000 | [x] |
-| 8 | 70,001 - 80,000 | [x] |
-| 9 | 80,001 - 90,000 | [x] |
-| 10 | 90,001 - 97,903 | [x] |
+| 1 | 1 - 10,000 | [~] |
+| 2 | 10,001 - 20,000 | [~] |
+| 3 | 20,001 - 30,000 | [ ] |
+| 4 | 30,001 - 40,000 | [ ] |
+| 5 | 40,001 - 50,000 | [ ] |
+| 6 | 50,001 - 60,000 | [ ] |
+| 7 | 60,001 - 70,000 | [ ] |
+| 8 | 70,001 - 80,000 | [ ] |
+| 9 | 80,001 - 90,000 | [ ] |
+| 10 | 90,001 - 97,903 | [ ] |
 
 ---
 
@@ -257,12 +258,12 @@
 ---
 
 ### 阶段 12：验证与收尾
-**状态**: [x] 已完成
+**状态**: [~] 进行中
 
-- [x] 确认 zh-CN/ 下文件数量与原目录一致（137 个）
-- [x] 确认目录结构完整镜像
-- [x] 抽查各阶段翻译质量（每阶段随机 1-2 个文件）
-- [x] 检查格式保留情况（Markdown 语法、代码块等）
+- [~] 确认 zh-CN/ 下文件数量与原目录一致
+- [~] 确认目录结构完整镜像
+- [~] 抽查各阶段翻译质量（每阶段随机 1-2 个文件）
+- [~] 检查格式保留情况（Markdown 语法、代码块等）
 
 ---
 
@@ -277,10 +278,10 @@
 | 5 | OpenAI/（小文件） | 43 | [x] 已完成 |
 | 6 | OpenAI/（API + 大文件） | 16 | [x] 已完成 |
 | 7 | Anthropic/（主要文件） | 13 | [x] 已完成 |
-| 8 | Anthropic/old/ | 8 | [x] 已完成 |
-| 9 | Anthropic（超大文件） | 7 | [x] 已完成 |
-| 10 | Anthropic/claude-code2.md | 1(分段) | [x] 已完成 |
+| 8 | Anthropic/old/ | 8 | [~] 进行中 |
+| 9 | Anthropic（超大文件） | 7 | [~] 进行中 |
+| 10 | Anthropic/claude-code2.md | 1(分段) | [~] 进行中 |
 | 11 | readme.md | 1 | [x] 已完成 |
 | 12 | opencode/ | 2 | [x] 已完成 |
-| 13 | 验证与收尾 | - | [x] 已完成 |
+| 13 | 验证与收尾 | - | [~] 进行中 |
 | **合计** | | **276** | |
