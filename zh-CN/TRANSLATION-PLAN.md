@@ -175,7 +175,7 @@
 ---
 
 ### 阶段 7：Anthropic 目录 - 主要文件（~13 个文件）
-**状态**: [x] 已完成
+**状态**: [~] 进行中
 
 | # | 文件 | 行数 | 状态 |
 |---|------|------|------|
@@ -191,38 +191,38 @@
 | 10 | Anthropic/claude-desktop-code.md | 大(1081) | [x] |
 | 11 | Anthropic/claude-in-chrome.md | 大(1218) | [x] |
 | 12 | Anthropic/claude-code.md | 大(1490) | [x] |
-| 13 | Anthropic/claude.ai-human-readable.md | 大(2492) | [x] |
+| 13 | Anthropic/claude.ai-human-readable.md | 大(2492) | [~] |
 
 ---
 
 ### 阶段 8：Anthropic/old 目录（8 个文件）
-**状态**: [~] 进行中
+**状态**: [x] 已完成
 
 | # | 文件 | 行数 | 状态 |
 |---|------|------|------|
 | 1 | Anthropic/old/claude-sonnet-4.md | 中(653) | [x] |
 | 2 | Anthropic/old/claude-3.7-sonnet-w-tools.md | 中(688) | [x] |
-| 3 | Anthropic/old/claude-3.7-sonnet.md | 大(1108) | [~] |
+| 3 | Anthropic/old/claude-3.7-sonnet.md | 大(1108) | [x] |
 | 4 | Anthropic/old/claude-3.7-full-system-message-with-all-tools.md | 大(1109) | [x] |
-| 5 | Anthropic/old/claude-opus-4.5.md | 大(1205) | [~] |
-| 6 | Anthropic/old/claude-3.7-sonnet-full-system-message-humanreadable.md | 大(1269) | [~] |
+| 5 | Anthropic/old/claude-opus-4.5.md | 大(1205) | [x] |
+| 6 | Anthropic/old/claude-3.7-sonnet-full-system-message-humanreadable.md | 大(1269) | [x] |
 | 7 | Anthropic/old/claude-4.1-opus-thinking.md | 大(1306) | [x] |
 | 8 | Anthropic/old/claude-4.5-sonnet.md | 大(2752) | [x] |
 
 ---
 
 ### 阶段 9：Anthropic - 超大文件（7 个文件）
-**状态**: [~] 进行中
+**状态**: [x] 已完成
 
 | # | 文件 | 行数 | 状态 |
 |---|------|------|------|
 | 1 | Anthropic/raw/claude-opus-4.6-no-tools-raw.md | 大 | [x] |
 | 2 | Anthropic/raw/claude-sonnet-4.6-no-tools-raw.md | 大 | [x] |
-| 3 | Anthropic/raw/claude-sonnet-4.6-raw.md | 大(1721) | [~] |
-| 4 | Anthropic/raw/claude-opus-4.6-raw.md | 大(1740) | [~] |
-| 5 | Anthropic/claude-cowork.md | 超大(2768) | [~] |
-| 6 | Anthropic/claude-sonnet-4.6.md | 超大(5348) | [~] |
-| 7 | Anthropic/claude-opus-4.6.md | 超大(5371) | [~] |
+| 3 | Anthropic/raw/claude-sonnet-4.6-raw.md | 大(1721) | [x] |
+| 4 | Anthropic/raw/claude-opus-4.6-raw.md | 大(1740) | [x] |
+| 5 | Anthropic/claude-cowork.md | 超大(2768) | [x] |
+| 6 | Anthropic/claude-sonnet-4.6.md | 超大(5348) | [x] |
+| 7 | Anthropic/claude-opus-4.6.md | 超大(5371) | [x] |
 
 ---
 
@@ -277,9 +277,9 @@
 | 4 | Perplexity/ | 2 | [x] 已完成 |
 | 5 | OpenAI/（小文件） | 43 | [x] 已完成 |
 | 6 | OpenAI/（API + 大文件） | 16 | [x] 已完成 |
-| 7 | Anthropic/（主要文件） | 13 | [x] 已完成 |
-| 8 | Anthropic/old/ | 8 | [~] 进行中 |
-| 9 | Anthropic（超大文件） | 7 | [~] 进行中 |
+| 7 | Anthropic/（主要文件） | 13 | [~] 进行中 |
+| 8 | Anthropic/old/ | 8 | [x] 已完成 |
+| 9 | Anthropic（超大文件） | 7 | [x] 已完成 |
 | 10 | Anthropic/claude-code2.md | 1(分段) | [~] 进行中 |
 | 11 | readme.md | 1 | [x] 已完成 |
 | 12 | opencode/ | 2 | [x] 已完成 |
